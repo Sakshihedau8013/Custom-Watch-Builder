@@ -4,4 +4,4 @@
 •Managed product inventory and pricing logic based on user selections. 
 •Translated user requirements into a functional application, emphasizing detail and user 
 experience. 
-Tools: Flask, HTML, CSS, Java Script, Bootstrap
+• Tools: Flask, HTML, CSS, Java Script, Bootstrap
